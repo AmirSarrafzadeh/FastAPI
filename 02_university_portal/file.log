@@ -1,0 +1,39 @@
+2024-04-02 16:59:57,718 - WARNING - No students found in the database
+2024-04-02 16:59:59,775 - WARNING - No students found in the database
+2024-04-02 17:03:54,730 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Learning\Python\FastAPI\fastapi_vm\Lib\site-packages\uvicorn\server.py:67> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Program Files\JetBrains\PyCharm 2023.3.4\plugins\python\helpers\pydev\pydevd.py", line 2235, in <module>
+    main()
+  File "C:\Learning\Python\FastAPI\02_university_portal\uni_backend.py", line 139, in <module>
+    uvicorn.run(app, host="127.0.0.1", port=8000)
+  File "C:\Learning\Python\FastAPI\fastapi_vm\Lib\site-packages\uvicorn\main.py", line 575, in run
+    server.run()
+  File "C:\Learning\Python\FastAPI\fastapi_vm\Lib\site-packages\uvicorn\server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\JetBrains\PyCharm 2023.3.4\plugins\python\helpers-pro\pydevd_asyncio\pydevd_nest_asyncio.py", line 120, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\JetBrains\PyCharm 2023.3.4\plugins\python\helpers-pro\pydevd_asyncio\pydevd_nest_asyncio.py", line 202, in run_until_complete
+    self._run_once()
+  File "C:\Program Files\JetBrains\PyCharm 2023.3.4\plugins\python\helpers-pro\pydevd_asyncio\pydevd_nest_asyncio.py", line 254, in _run_once
+    handle._run()
+  File "C:\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Python312\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Program Files\JetBrains\PyCharm 2023.3.4\plugins\python\helpers-pro\pydevd_asyncio\pydevd_nest_asyncio.py", line 363, in step
+    step_orig(task, exc)
+  File "C:\Python312\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Python312\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Learning\Python\FastAPI\fastapi_vm\Lib\site-packages\uvicorn\server.py", line 68, in serve
+    with self.capture_signals():
+  File "C:\Python312\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Learning\Python\FastAPI\fastapi_vm\Lib\site-packages\uvicorn\server.py", line 328, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt

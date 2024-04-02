@@ -1,11 +1,28 @@
 import requests
 import datetime
+import pandas as pd
 import streamlit as st
 
 
 # Backend API URL
 backend_url = "http://localhost:8000"
 
+def fetch_students_data():
+    response = requests.get(f"{backend_url}/students/")
+    if response.status_code == 200:
+        students = response.json()
+        return students
+    else:
+        st.error("Failed to fetch students data")
+
+
+def fetch_lessons_data():
+    response = requests.get(f"{backend_url}/lessons/")
+    if response.status_code == 200:
+        lessons = response.json()
+        return lessons
+    else:
+        st.error("Failed to fetch lessons data")
 
 def register_student():
     current_year = datetime.datetime.now().year
@@ -24,18 +41,19 @@ def register_student():
     if st.button("Register"):
 
         student_data = {
-            "name": name,
-            "surname": surname,
-            "age": str(age),
-            "sex": sex,
-            "nationality": nationality,
-            "field_of_studying": field_of_studying
+            'name': name,
+            'surname': surname,
+            'age': str(age),
+            'sex': sex,
+            'nationality': nationality,
+            'field_of_studying': field_of_studying
         }
-        st.write(student_data)
+
         response = requests.post(f"{backend_url}/register_student/", json=student_data)
         if response.status_code == 200:
             st.success("Student registered successfully")
         else:
+            st.write(response.status_code)
             st.error("Failed to register student")
 
 
@@ -64,7 +82,7 @@ def main():
     elif page == "View Students":
         response = requests.get(f"{backend_url}/students/")
         if response.status_code == 200:
-            students = response.json()
+            students = fetch_students_data()
             if not students:
                 st.markdown("""
                                 <div style="padding: 10px; background-color: #ADD8E6; border-radius: 5px;">
@@ -72,15 +90,14 @@ def main():
                                 </div>
                                 """, unsafe_allow_html=True)
             else:
-                for student in students:
-                    st.write(
-                        f"Name: {student['name']}, Surname: {student['surname']}, Age: {student['age']}, Sex: {student['sex']}, Nationality: {student['nationality']}, Field of Studying: {student['field_of_studying']}")
+                df_students = pd.DataFrame(students)
+                st.dataframe(df_students)
         else:
             st.error("Failed to fetch students data")
     elif page == "View Lessons":
         response = requests.get(f"{backend_url}/lessons/")
         if response.status_code == 200:
-            lessons = response.json()
+            lessons = fetch_lessons_data()
             if not lessons:
                 st.markdown("""
                                 <div style="padding: 10px; background-color: #708090; border-radius: 5px;">
@@ -88,11 +105,10 @@ def main():
                                 </div>
                                 """, unsafe_allow_html=True)
             else:
-                for lesson in lessons:
-                    st.write(f"Name: {lesson['name']}, Field of Studying: {lesson['field_of_studying']}")
+                df_lessons = pd.DataFrame(lessons)
+                st.dataframe(df_lessons)
         else:
             st.error("Failed to fetch lessons data")
-
 
 if __name__ == "__main__":
     main()

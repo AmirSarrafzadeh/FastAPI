@@ -1,0 +1,47 @@
+2024-04-10 17:16:01,651 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:16:01,652 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:16:01,659 - INFO - Starting the FastAPI server...
+2024-04-10 17:16:01,664 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:18:58,934 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:18:58,935 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:18:58,941 - INFO - Starting the FastAPI server...
+2024-04-10 17:18:58,946 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:19:02,409 - INFO - GET request received at root URL.
+2024-04-10 17:19:02,432 - INFO - GET request received at favicon.ico URL.
+2024-04-10 17:21:12,855 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:21:12,856 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:21:12,861 - INFO - Starting the FastAPI server...
+2024-04-10 17:21:12,866 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:26:21,837 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:26:21,838 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:26:21,844 - INFO - Starting the FastAPI server...
+2024-04-10 17:26:21,849 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:26:50,789 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:26:50,790 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:26:50,796 - INFO - Starting the FastAPI server...
+2024-04-10 17:26:50,801 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:26:58,574 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:26:58,575 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:26:58,581 - INFO - Starting the FastAPI server...
+2024-04-10 17:26:58,587 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:35:19,260 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:35:19,261 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:35:19,267 - INFO - Starting the FastAPI server...
+2024-04-10 17:35:19,272 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:36:16,678 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:36:16,679 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:36:16,685 - INFO - Starting the FastAPI server...
+2024-04-10 17:36:16,690 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:37:04,973 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:37:04,974 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:37:04,981 - INFO - Starting the FastAPI server...
+2024-04-10 17:37:04,987 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:38:00,601 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:38:00,602 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:38:00,609 - INFO - Starting the FastAPI server...
+2024-04-10 17:38:00,614 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:38:36,770 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 17:38:36,771 - INFO - Database table 'orders' created successfully.
+2024-04-10 17:38:36,777 - INFO - Starting the FastAPI server...
+2024-04-10 17:38:36,782 - DEBUG - Using proactor: IocpProactor
+2024-04-10 17:38:58,833 - INFO - GET request received at favicon.ico URL.

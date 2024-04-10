@@ -1,4 +1,4 @@
-# frontend.py
+
 import streamlit as st
 import requests
 
@@ -23,7 +23,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url("https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg"); 
+            background-image: url(""); 
             background-size: cover;
         }
         </style>

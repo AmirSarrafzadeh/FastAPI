@@ -52,7 +52,7 @@ def main():
                 "delivery_address": delivery_address,
                 "payment_method": payment_method,
             }
-            response = requests.get(f"{BASE_URL}/orders/", json=payload)
+            response = requests.post(f"{BASE_URL}/orders/", json=payload)
             if response.status_code == 200:
                 st.success("Order inserted successfully!")
             else:

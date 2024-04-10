@@ -45,3 +45,27 @@
 2024-04-10 17:38:36,777 - INFO - Starting the FastAPI server...
 2024-04-10 17:38:36,782 - DEBUG - Using proactor: IocpProactor
 2024-04-10 17:38:58,833 - INFO - GET request received at favicon.ico URL.
+2024-04-10 18:13:05,817 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 18:13:05,818 - INFO - Database table 'orders' created successfully.
+2024-04-10 18:13:05,825 - INFO - Starting the FastAPI server...
+2024-04-10 18:13:05,831 - DEBUG - Using proactor: IocpProactor
+2024-04-10 18:13:08,960 - INFO - POST request received at /orders/ endpoint.
+2024-04-10 18:13:08,968 - INFO - Order created successfully.
+2024-04-10 18:13:36,269 - INFO - GET request received at /orders/Order_01 endpoint.
+2024-04-10 18:21:29,242 - INFO - PUT request received at /orders/Order_01 endpoint.
+2024-04-10 18:21:49,238 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 18:21:49,238 - INFO - Database table 'orders' created successfully.
+2024-04-10 18:21:49,246 - INFO - Starting the FastAPI server...
+2024-04-10 18:21:49,251 - DEBUG - Using proactor: IocpProactor
+2024-04-10 18:22:01,017 - INFO - PUT request received at /orders/Order_01 endpoint.
+2024-04-10 18:22:17,576 - INFO - PUT request received at /orders/Order_01 endpoint.
+2024-04-10 18:22:17,583 - INFO - Order updated successfully.
+2024-04-10 18:45:26,962 - INFO - Database name: restaurant is read from the config file.
+2024-04-10 18:45:26,963 - INFO - Database table 'orders' created successfully.
+2024-04-10 18:45:26,968 - INFO - Starting the FastAPI server...
+2024-04-10 18:45:26,973 - DEBUG - Using proactor: IocpProactor
+2024-04-10 18:46:30,699 - INFO - POST request received at /orders/ endpoint.
+2024-04-10 18:46:30,708 - INFO - Order created successfully.
+2024-04-10 18:47:10,103 - INFO - GET request received at /orders/Order F endpoint.
+2024-04-10 18:47:25,080 - INFO - PUT request received at /orders/Order F endpoint.
+2024-04-10 18:47:25,089 - INFO - Order updated successfully.

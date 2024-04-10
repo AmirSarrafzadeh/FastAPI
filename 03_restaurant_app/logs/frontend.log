@@ -1,0 +1,122 @@
+2024-04-10 17:47:22,702 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:47:22,702 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:47:48,828 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:47:48,828 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:48:24,158 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:48:24,158 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:48:37,137 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:48:37,138 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:49:25,047 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:49:25,048 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:49:40,667 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:49:40,667 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:49:53,972 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:49:53,972 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:50:37,649 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:50:37,649 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:50:47,009 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:50:47,009 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 17:51:43,920 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 17:51:43,920 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:11:27,004 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:11:27,004 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:04,756 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:04,756 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:21,569 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:21,569 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:28,912 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:28,912 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:32,713 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:32,713 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:38,392 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:38,392 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:54,128 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:54,129 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:55,848 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:55,848 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:56,952 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:12:56,952 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:12:57,102 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:13:08,801 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:13:08,801 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:13:08,958 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:13:08,970 - DEBUG - http://localhost:8000 "POST /orders/ HTTP/1.1" 200 205
+2024-04-10 18:13:34,511 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:13:34,512 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:13:36,127 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:13:36,127 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:13:36,268 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:13:36,270 - DEBUG - http://localhost:8000 "GET /orders/Order_01 HTTP/1.1" 200 97
+2024-04-10 18:14:34,728 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:14:34,728 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:20:44,325 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:20:44,325 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:20:45,082 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:20:45,082 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:20:50,745 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:20:50,745 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:21:04,744 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:21:04,744 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:21:28,983 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:21:28,983 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:21:29,040 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:21:29,040 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:21:29,234 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:21:34,785 - DEBUG - http://localhost:8000 "PUT /orders/Order_01 HTTP/1.1" 500 21
+2024-04-10 18:22:00,863 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:22:00,863 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:22:01,016 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:22:06,556 - DEBUG - http://localhost:8000 "PUT /orders/Order_01 HTTP/1.1" 500 21
+2024-04-10 18:22:17,422 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:22:17,422 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:22:17,574 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:22:17,585 - DEBUG - http://localhost:8000 "PUT /orders/Order_01 HTTP/1.1" 200 148
+2024-04-10 18:45:47,734 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:45:47,735 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:45:48,258 - INFO - User accessed Insert Order section
+2024-04-10 18:46:00,186 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:00,186 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:00,339 - INFO - User accessed Insert Order section
+2024-04-10 18:46:06,417 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:06,418 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:06,571 - INFO - User accessed Insert Order section
+2024-04-10 18:46:12,161 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:12,162 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:12,309 - INFO - User accessed Insert Order section
+2024-04-10 18:46:14,833 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:14,833 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:14,978 - INFO - User accessed Insert Order section
+2024-04-10 18:46:19,065 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:19,065 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:19,216 - INFO - User accessed Insert Order section
+2024-04-10 18:46:30,433 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:30,433 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:30,505 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:46:30,505 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:46:30,692 - INFO - User accessed Insert Order section
+2024-04-10 18:46:30,696 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:46:30,710 - DEBUG - http://localhost:8000 "POST /orders/ HTTP/1.1" 200 203
+2024-04-10 18:46:30,711 - INFO - Order inserted successfully
+2024-04-10 18:47:08,458 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:47:08,458 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:47:08,605 - INFO - User accessed View Order section
+2024-04-10 18:47:09,952 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:47:09,952 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:47:10,099 - INFO - User accessed View Order section
+2024-04-10 18:47:10,101 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:47:10,104 - DEBUG - http://localhost:8000 "GET /orders/Order%20F HTTP/1.1" 200 95
+2024-04-10 18:47:10,104 - INFO - Viewed order with code Order F
+2024-04-10 18:47:20,152 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:47:20,152 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:47:20,300 - INFO - User accessed Update Order section
+2024-04-10 18:47:24,336 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:47:24,336 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:47:24,478 - INFO - User accessed Update Order section
+2024-04-10 18:47:24,921 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-10 18:47:24,921 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-10 18:47:25,073 - INFO - User accessed Update Order section
+2024-04-10 18:47:25,077 - INFO - User requested to update an order
+2024-04-10 18:47:25,077 - INFO - Payload for update: {'payment_method': 'Credit Card'}
+2024-04-10 18:47:25,078 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-10 18:47:25,092 - DEBUG - http://localhost:8000 "PUT /orders/Order%20F HTTP/1.1" 200 141
+2024-04-10 18:47:25,093 - INFO - Order updated successfully

@@ -52,6 +52,7 @@ except Exception as e:
 
 # Streamlit UI
 def main():
+    font_color = "white"
     st.title("Happy Restaurant 🍔")
 
     menu = ["Insert Order", "View Order", "Update Order", "Delete Order"]
@@ -66,6 +67,7 @@ def main():
         .stApp {{
             background-image: url({}); 
             background-size: cover;
+            color: lime;
         }}
         </style>
         """.format(image_url),
@@ -73,16 +75,16 @@ def main():
     )
 
     if choice == "Insert Order":
-        st.subheader("Insert Order")
+        st.subheader(f":{font_color}[Insert Order]")
         logging.info("User accessed Insert Order section")
-        order_code = st.text_input("Order Code")
-        food_name = st.text_input("Food Name")
-        customer_name = st.text_input("Customer Name")
-        customer_surname = st.text_input("Customer Surname")
-        customer_id = st.text_input("Customer ID")
-        delivery_address = st.text_input("Delivery Address")
+        order_code = st.text_input(f":{font_color}[Order Code]")
+        food_name = st.text_input(f":{font_color}[Food Name]")
+        customer_name = st.text_input(f":{font_color}[Customer Name]")
+        customer_surname = st.text_input(f":{font_color}[Customer Surname]")
+        customer_id = st.text_input(f":{font_color}[Customer ID]")
+        delivery_address = st.text_input(f":{font_color}[Delivery Address]")
         payment_method = st.selectbox(
-            "Payment Method", ["Cash", "Credit Card", "Online Transfer"]
+            f":{font_color}[Payment Method]", ["Cash", "Credit Card", "Online Transfer"]
         )
         if st.button("Insert"):
             payload = {

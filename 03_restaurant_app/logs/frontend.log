@@ -120,3 +120,78 @@
 2024-04-10 18:47:25,078 - DEBUG - Starting new HTTP connection (1): localhost:8000
 2024-04-10 18:47:25,092 - DEBUG - http://localhost:8000 "PUT /orders/Order%20F HTTP/1.1" 200 141
 2024-04-10 18:47:25,093 - INFO - Order updated successfully
+2024-04-15 10:10:02,329 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:10:02,330 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:10:03,206 - INFO - User accessed Insert Order section
+2024-04-15 10:23:17,093 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:23:17,093 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:23:17,295 - INFO - User accessed Insert Order section
+2024-04-15 10:23:47,488 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:23:47,488 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:23:47,653 - INFO - User accessed Insert Order section
+2024-04-15 10:23:59,529 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:23:59,529 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:23:59,739 - INFO - User accessed Insert Order section
+2024-04-15 10:26:09,182 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:26:09,182 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:26:09,388 - INFO - User accessed Insert Order section
+2024-04-15 10:26:20,808 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:26:20,808 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:26:21,046 - INFO - User accessed Insert Order section
+2024-04-15 10:26:40,653 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:26:40,654 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:26:40,872 - INFO - User accessed Insert Order section
+2024-04-15 10:26:50,833 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:26:50,833 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:26:51,073 - INFO - User accessed Insert Order section
+2024-04-15 10:27:03,605 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:27:03,606 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:27:03,824 - INFO - User accessed Insert Order section
+2024-04-15 10:27:13,258 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:27:13,258 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:27:13,464 - INFO - User accessed Insert Order section
+2024-04-15 10:28:08,433 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:28:08,433 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:28:08,683 - INFO - User accessed Insert Order section
+2024-04-15 10:29:01,629 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:29:01,629 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:29:01,846 - INFO - User accessed Insert Order section
+2024-04-15 10:30:17,721 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:30:17,721 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:30:17,980 - INFO - User accessed Insert Order section
+2024-04-15 10:32:08,650 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:32:08,651 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:32:08,922 - INFO - User accessed Insert Order section
+2024-04-15 10:33:28,357 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:33:28,357 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:33:28,597 - INFO - User accessed Insert Order section
+2024-04-15 10:34:28,043 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:34:28,043 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:34:28,239 - INFO - User accessed Insert Order section
+2024-04-15 10:34:43,015 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:34:43,015 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:34:43,230 - INFO - User accessed Insert Order section
+2024-04-15 10:35:27,479 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:35:27,479 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:35:27,695 - INFO - User accessed Insert Order section
+2024-04-15 10:35:58,703 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:35:58,703 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:35:58,926 - INFO - User accessed Insert Order section
+2024-04-15 10:36:29,489 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:36:29,489 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:36:29,702 - INFO - User accessed Insert Order section
+2024-04-15 10:37:00,444 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:37:00,444 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:37:00,664 - INFO - User accessed Insert Order section
+2024-04-15 10:37:19,147 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:37:19,148 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:37:19,345 - INFO - User accessed Insert Order section
+2024-04-15 10:37:51,928 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:37:51,928 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:37:52,137 - INFO - User accessed Insert Order section
+2024-04-15 10:44:09,995 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:44:09,995 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:44:10,206 - INFO - User accessed Insert Order section
+2024-04-15 10:44:33,723 - INFO - Base URL: http://localhost:8000 is read from the config file.
+2024-04-15 10:44:33,724 - INFO - Image URL: https://content.fortune.com/wp-content/uploads/2019/05/tak-room-rendering-web.jpg is read from the config file.
+2024-04-15 10:44:33,928 - INFO - User accessed Insert Order section
